@@ -57,7 +57,7 @@ defaultRules:
 
 ## Provide custom recording or alerting rules to be deployed into the cluster.
 ##
-additionalPrometheusRules: []
+additionalPrometheusRulesMap: []
 #  - name: my-rule-file
 #    groups:
 #      - name: my_group
